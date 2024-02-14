@@ -1,4 +1,6 @@
-# chess-auto-bot
+# chess-auto-bot (UPDATED CODE)
+//For this to work, don't forget to add your proper directory at line 437 & Update webdriver as well options.add_argument(r"--user-data-dir=C:\Users\Name\AppData\Local\Google\Chrome\User Data")
+
 A bot for chess.com and lichess.org that automatically plays chess for you  
 
 Chess.com  
